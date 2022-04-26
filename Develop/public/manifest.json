@@ -1,0 +1,8 @@
+{ "name": "PWA-Application",
+    "short_name": "Budget App",
+    "icon": "",
+    "theme_color": "#white",
+    "background_color": "white",
+    "start_url": "server.js",
+    "display": "standalone"
+}
