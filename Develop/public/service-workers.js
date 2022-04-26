@@ -5,7 +5,7 @@ const FILES_TO_CACHE = [
     "/",
     "./index.html",
     "./js/index.js",
-    "./js/db.js",
+    "./js/idb.js",
     "./css/styles.css",
     "./manifest.json",
     "https://cdn.jsdelivr.net/npm/chart.js@2.8.0",
