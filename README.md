@@ -1,17 +1,23 @@
-# 19 Progressive Web Applications (PWA): Budget Tracker
+# PWA Budget Tracket
 
-Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information.
-
-Your challenge this week is to add functionality to an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should update the total when brought back online. Finally, you’ll deploy the application to Heroku.
-
-Before you start, clone the [starter code](https://github.com/coding-boot-camp/symmetrical-bassoon).
-
-> **On the Job:** When web developers are working on a feature request or trying to kill a bug, they rarely have all the information they need to solve the task in front of them. Being a successful developer requires you to combine knowledge that you’ve picked up from different applications you’ve worked on in the past to formulate a solution.
-> 
-> This Challenge will ask you to combine several tasks that you’ve learned over this module and the previous one to add offline functionality to an existing application. We’ve outlined how you can achieve this in the Getting Started section below.
+![image](https://user-images.githubusercontent.com/94027300/165267208-d0c869c0-f7fe-4458-a153-617be346ae5a.png)
 
 
-## User Story
+  
+  ## Description
+ Please click the link to use the application 
+ I was requested to build a budget tracker using some starter code, I was able to complete the app so the user is able to create and delete budget items and the app will track the items and add them to a table.
+
+  ## Installation
+  npm install
+
+  ## Usage
+  npm start
+  
+  ## Features
+  The user is able to add transactions and the transaction total using the +Add Funds and -Subrtact Funds buttons.
+  The app will automatically create a table showing the budget trends.
+
 
 ```md
 AS AN avid traveller
