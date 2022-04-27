@@ -62,7 +62,7 @@ Once you’ve updated the existing budget tracker, it should provide the followi
 
 ### Web Manifest
 
-Because this will be a mobile-first application, you’ll also need to add a web manifest to your application with the app’s metadata to let users’ devices know what they’re installing and how the app should look on the home screen.
+<!-- Because this will be a mobile-first application, you’ll also need to add a web manifest to your application with the app’s metadata to let users’ devices know what they’re installing and how the app should look on the home screen.
 
 This `manifest.json` file for this project will contain the following properties:
 
@@ -80,7 +80,7 @@ This `manifest.json` file for this project will contain the following properties
 
 * `display`
 
-> **Important:** In the module project, you used webpack to create the `manifest.json` file. For this application, you’ll need to create it manually and add it to the `public/` directory of your application. You can also review **Module 19: Progressive Web Applications (PWA), Lesson 5: PWA** as a refresher on web manifests.
+> **Important:** In the module project, you used webpack to create the `manifest.json` file. For this application, you’ll need to create it manually and add it to the `public/` directory of your application. You can also review **Module 19: Progressive Web Applications (PWA), Lesson 5: PWA** as a refresher on web manifests. -->
 
 ### Deployment to Heroku Using MongoDB Atlas
 
