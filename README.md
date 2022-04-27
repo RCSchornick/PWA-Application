@@ -5,8 +5,8 @@
 
   
   ## Description
- Please click the link to use the application 
  I was requested to build a budget tracker using some starter code, I was able to complete the app so the user is able to create and delete budget items and the app will track the items and add them to a table.
+ 
 
   ## Installation
   npm install
